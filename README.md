@@ -32,9 +32,8 @@ Innovative and detail-oriented Full-Stack Developer & Cybersecurity Enthusiast w
 - **2nd & 3rd Placer**, CTF – TIP Manila (2025)  
 - **Finalist**, Kaya Founders Hackathon (2024)
 - **2nd Placer**, Arduino Hackathon (2025)
-- **Solana Radar Hackathon Participant** – Blockchain & Offline Payments
 
-- asis
+
 - **Azure AI Studio Developer** – Business-Oriented AI Chatbot Customization  
 - **DICT** – Digital Literacy, Cybersecurity, and Software Engineering Certifications  
 - **Cisco Networking Academy** – IT Essentials & Cybersecurity Pathways
@@ -93,6 +92,6 @@ National University – Philippines (2022 – Present)
 
 ## **Leadership & Community Involvement**
 
-- **Microsoft Learn Student Ambassador** – National University (2024 – Present)  
-  Representing Microsoft on campus by advocating for technology, promoting learning resources, and engaging with the student tech community.
+- **Microsoft Learn Student Ambassador** – National University (2024 – Present)
+Representing Microsoft on campus by advocating for technology, promoting learning resources, and engaging with the student tech community.
 
