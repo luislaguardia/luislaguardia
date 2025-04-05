@@ -1,7 +1,7 @@
 # **Luis Gabriel Lagurdia**  
-📍 Makati City, Philippines, 1218  
-📞 0949 156 4061  
-📧 laguardialuisgabriel@gmail.com  
+📍 Makati City, Philippines
+📞 09*******61  
+📧 laguardialh@students.national-u.edu.ph 
 🌐 [github.com/luislaguardia](https://github.com/luislaguardia)
 
 ---
