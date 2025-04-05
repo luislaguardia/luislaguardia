@@ -52,7 +52,7 @@ Innovative and detail-oriented Full-Stack Developer & Cybersecurity Enthusiast w
 ### **Cybersecurity Enthusiast & Penetration Tester**  
 *2023 – Present*  
 - Conducted network traffic analysis and vulnerability assessments  
-- Participated in Capture the Flag (CTF) competitions and ethical hacking labs (Hack The Box, TryHackMe)  
+- Participated in Capture the Flag (CTF) competitions and ethical hacking labs (Hack The Box, TryHackMe, PicoCTF)  
 - Promoted secure coding practices and implemented end-to-end encryption mechanisms  
 
 ---
