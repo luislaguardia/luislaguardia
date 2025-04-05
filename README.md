@@ -93,5 +93,5 @@ National University – Philippines (2022 – Present)
 ## **Leadership & Community Involvement**
 
 - **Microsoft Learn Student Ambassador** – National University (2024 – Present)
-Representing Microsoft on campus by advocating for technology, promoting learning resources, and engaging with the student tech community.
+  Representing Microsoft on campus by advocating for technology, promoting learning resources, and engaging with the student tech community.
 
