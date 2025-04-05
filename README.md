@@ -46,9 +46,6 @@ Innovative and detail-oriented Full-Stack Developer & Cybersecurity Enthusiast w
 National University – Philippines (2022 – Present)  
 - Thesis: *Innovations in Sustainable Energy*
 
-**STEM Strand – Science, Technology, Engineering, and Mathematics**  
-British School Manila (2020 – 2022)
-
 ---
 
 ## **Projects**
