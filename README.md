@@ -14,10 +14,10 @@ Innovative and detail-oriented Full-Stack Developer & Cybersecurity Enthusiast w
 ## **Skills**
 
 - **Programming Languages:** JavaScript, PHP, Python, Dart, SQL, Java, C++, C#  
-- **Frameworks & Libraries:** React.js, Next.js, Express.js, Laravel, Tailwind CSS, Flutter, KivyMD  
+- **Frameworks & Libraries:** React.js, Express.js, Laravel, Tailwind CSS, Flutter, KivyMD  
 - **Databases:** MySQL, MongoDB  
 - **Tools & Platforms:** Git, Docker, Firebase, Postman, Supabase  
-- **Specializations:** Cybersecurity, Penetration Testing, Blockchain Development  
+- **Specializations:** Cybersecurity, Penetration Testing, Blockchain Development  , Mobile and Web Development
 - **Other Skills:** System Design, Robotics & Automation, Structural Analysis, Project Management  
 
 ---
