@@ -17,8 +17,27 @@ Innovative and detail-oriented Full-Stack Developer & Cybersecurity Enthusiast w
 - **Frameworks & Libraries:** React.js, Express.js, Laravel, Tailwind CSS, Flutter, KivyMD  
 - **Databases:** MySQL, MongoDB  
 - **Tools & Platforms:** Git, Docker, Firebase, Postman, Supabase  
-- **Specializations:** Cybersecurity, Penetration Testing, Blockchain Development  , Mobile and Web Development
+- **Specializations:** Cybersecurity, Penetration Testing, Blockchain Development, Mobile and Web Development
 - **Other Skills:** System Design, Robotics & Automation, Structural Analysis, Project Management  
+
+---
+
+## **Certifications & Achievements**
+- - **Finaist**, CoinsPH Hackathon (2022)
+- **Champion**, JPCS Programming Competition (2022)
+- **Finalist**, Hackfest 2024 – GDSC Loyola
+- **Best App Award (Rank 1)** – TechFiesta, National University (2023)
+- **Finalist**, Trend Micro Capture the Flag (2024)
+- **4th Placer**, International Robotics and Automation Competition (2024)
+- **2nd & 3rd Placer**, CTF – TIP Manila (2025)  
+- **Finalist**, Kaya Founders Hackathon (2024)
+- **2nd Placer**, Arduino Hackathon (2025)
+- **Solana Radar Hackathon Participant** – Blockchain & Offline Payments
+
+- asis
+- **Azure AI Studio Developer** – Business-Oriented AI Chatbot Customization  
+- **DICT** – Digital Literacy, Cybersecurity, and Software Engineering Certifications  
+- **Cisco Networking Academy** – IT Essentials & Cybersecurity Pathways
 
 ---
 
@@ -36,15 +55,6 @@ Innovative and detail-oriented Full-Stack Developer & Cybersecurity Enthusiast w
 - Conducted network traffic analysis and vulnerability assessments  
 - Participated in Capture the Flag (CTF) competitions and ethical hacking labs (Hack The Box, TryHackMe)  
 - Promoted secure coding practices and implemented end-to-end encryption mechanisms  
-
----
-
-## **Education**
-
-**Bachelor of Science in Information Technology**  
-*Major in Mobile & Web Applications*  
-National University – Philippines (2022 – Present)  
-- Thesis: *Innovations in Sustainable Energy*
 
 ---
 
@@ -72,19 +82,17 @@ National University – Philippines (2022 – Present)
 
 ---
 
-## **Certifications & Achievements**
-- - **Finaist**, CoinsPH Hackathon (2022)
-- **Champion**, JPCS Programming Competition (2022)
-- **Finalist**, Hackfest 2024 – GDSC Loyola
-- **Best App Award (Rank 1)** – TechFiesta, National University (2023)
-- **Finalist**, Trend Micro Capture the Flag (2024)
-- **4th Placer**, International Robotics and Automation Competition (2024)
-- **2nd & 3rd Placer**, CTF – TIP Manila (2025)  
-- **Finalist**, Kaya Founders Hackathon (2024)
-- **2nd Placer**, Arduino Hackathon (2025)
-- **Solana Radar Hackathon Participant** – Blockchain & Offline Payments
+## **Leadership & Community Involvement**
 
-- asis
-- **Azure AI Studio Developer** – Business-Oriented AI Chatbot Customization  
-- **DICT** – Digital Literacy, Cybersecurity, and Software Engineering Certifications  
-- **Cisco Networking Academy** – IT Essentials & Cybersecurity Pathways  
+- **Microsoft Learn Student Ambassador** – National University (2024 – Present)  
+  Representing Microsoft on campus by advocating for technology, promoting learning resources, and engaging with the student tech community.
+
+
+## **Education**
+
+**Bachelor of Science in Information Technology**  
+*Major in Mobile & Web Applications*  
+National University – Philippines (2022 – Present)  
+- Thesis: *Innovations in Sustainable Energy*
+
+---
