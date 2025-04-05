@@ -40,6 +40,22 @@ Innovative and detail-oriented Full-Stack Developer & Cybersecurity Enthusiast w
 
 ---
 
+## **Education**
+
+**Bachelor of Science in Information Technology**  
+*Major in Mobile & Web Applications*  
+National University – Philippines (2022 – Present)  
+- Thesis: *Innovations in Sustainable Energy*
+
+---
+
+## **Leadership & Community Involvement**
+
+- **Microsoft Learn Student Ambassador** – National University (2024 – Present)
+- Representing Microsoft on campus by advocating for technology, promoting learning resources, and engaging with the student tech community.
+
+---
+
 ## **Experience**
 
 ### **Freelance Full-Stack Developer**  
@@ -56,42 +72,3 @@ Innovative and detail-oriented Full-Stack Developer & Cybersecurity Enthusiast w
 - Promoted secure coding practices and implemented end-to-end encryption mechanisms  
 
 ---
-
-## **Projects**
-
-###  **Inventory Management System for Smiski Figurines**  
-- Web-based inventory tracker built using **React.js**, **Express.js**, and **MongoDB**  
-- Enabled product tracking, stock updates, and basic analytics  
-
-###  **E-Jeep QR Payment System**  
-- Designed a contactless fare payment app using **KivyMD** and **Firebase**  
-- Integrated wallet functionality with automatic balance deduction  
-
-###  **Facebook & Instagram Clone (Full-Stack)**  
-- Developed social media apps with **Flutter**, **Express.js**, and **MongoDB**  
-- Supported user authentication, real-time chat, post interactions, and notifications  
-
-###  **Group Chat App (WebSockets)**  
-- Built a real-time chat platform with **Node.js**, **Express**, and **Socket.io**  
-- Included instant messaging, group channels, and message persistence  
-
-###  **Diffie-Hellman Key Exchange Chat System**  
-- Implemented a secure chat solution using **Diffie-Hellman key exchange**  
-- Ensured end-to-end encryption and secure message delivery  
-
----
-
-## **Education**
-
-**Bachelor of Science in Information Technology**  
-*Major in Mobile & Web Applications*  
-National University – Philippines (2022 – Present)  
-- Thesis: *Innovations in Sustainable Energy*
-
----
-
-## **Leadership & Community Involvement**
-
-- **Microsoft Learn Student Ambassador** – National University (2024 – Present)
-- Representing Microsoft on campus by advocating for technology, promoting learning resources, and engaging with the student tech community.
-
