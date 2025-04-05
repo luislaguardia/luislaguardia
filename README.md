@@ -23,7 +23,7 @@ Innovative and detail-oriented Full-Stack Developer & Cybersecurity Enthusiast w
 ---
 
 ## **Certifications & Achievements**
-- - **Finaist**, CoinsPH Hackathon (2022)
+- **Finaist**, CoinsPH Hackathon (2022)
 - **Champion**, JPCS Programming Competition (2022)
 - **Finalist**, Hackfest 2024 – GDSC Loyola
 - **Best App Award (Rank 1)** – TechFiesta, National University (2023)
@@ -82,12 +82,6 @@ Innovative and detail-oriented Full-Stack Developer & Cybersecurity Enthusiast w
 
 ---
 
-## **Leadership & Community Involvement**
-
-- **Microsoft Learn Student Ambassador** – National University (2024 – Present)  
-  Representing Microsoft on campus by advocating for technology, promoting learning resources, and engaging with the student tech community.
-
-
 ## **Education**
 
 **Bachelor of Science in Information Technology**  
@@ -96,3 +90,9 @@ National University – Philippines (2022 – Present)
 - Thesis: *Innovations in Sustainable Energy*
 
 ---
+
+## **Leadership & Community Involvement**
+
+- **Microsoft Learn Student Ambassador** – National University (2024 – Present)  
+  Representing Microsoft on campus by advocating for technology, promoting learning resources, and engaging with the student tech community.
+
