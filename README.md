@@ -51,15 +51,14 @@ National University – Philippines (2022 – Present)
 
 ## **Leadership & Community Involvement**
 
-- **Microsoft Learn Student Ambassador** (2024 – Present)
-Representing Microsoft on campus by advocating for technology, promoting learning resources, and engaging with the student tech community.
+- **Microsoft Learn Student Ambassador**
+  - Representing Microsoft on campus by advocating for technology, promoting learning resources, and engaging with the student tech community.
 
 ---
 
 ## **Experience**
 
 ### **Freelance Developer**  
-*2023 – Present*  
 - Built and deployed responsive web and mobile applications using React, Next.js, Laravel, and Flutter  
 - Integrated RESTful APIs, third-party services, and both SQL and NoSQL databases  
 - Performed security audits and penetration tests for client applications  
