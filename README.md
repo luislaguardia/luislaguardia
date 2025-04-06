@@ -58,15 +58,13 @@ Representing Microsoft on campus by advocating for technology, promoting learnin
 
 ## **Experience**
 
-### **Freelance Full-Stack Developer**  
+### **Freelance Developer**  
 *2023 – Present*  
 - Built and deployed responsive web and mobile applications using React, Next.js, Laravel, and Flutter  
 - Integrated RESTful APIs, third-party services, and both SQL and NoSQL databases  
 - Performed security audits and penetration tests for client applications  
 - Collaborated with clients to plan, design, and maintain scalable applications  
 
-### **Cybersecurity Enthusiast & Penetration Tester**  
-*2023 – Present*  
 - Conducted network traffic analysis and vulnerability assessments  
 - Participated in Capture the Flag (CTF) competitions and ethical hacking labs (Hack The Box, TryHackMe, PicoCTF)  
 - Promoted secure coding practices and implemented end-to-end encryption mechanisms  
