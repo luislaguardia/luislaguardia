@@ -13,9 +13,8 @@ Innovative and detail-oriented Full-Stack Developer & Cybersecurity Enthusiast w
 
 ## **Skills**
 
-- **Programming Languages:** JavaScript, PHP, Python, Dart, SQL, Java, C++, C#  
-- **Frameworks & Libraries:** React.js, Express.js, Laravel, Tailwind CSS, Flutter, KivyMD  
-- **Databases:** MySQL, MongoDB  
+- **Programming Languages:** JavaScript, Python, Dart, SQL, Java, C++, C#  
+- **Frameworks & Libraries:** React.js, Express.js, Tailwind CSS, Flutter, KivyMD  
 - **Tools & Platforms:** Git, Docker, Firebase, Postman, Supabase  
 - **Specializations:** Cybersecurity, Penetration Testing, Blockchain Development, Mobile and Web Development
 - **Other Skills:** System Design, Robotics & Automation, Structural Analysis, Project Management  
@@ -40,32 +39,8 @@ Innovative and detail-oriented Full-Stack Developer & Cybersecurity Enthusiast w
 
 ---
 
-## **Education**
-
-**Bachelor of Science in Information Technology**  
-*Major in Mobile & Web Applications*  
-National University – Philippines (2022 – Present)  
-- Thesis: *Innovations in Sustainable Energy*
-
----
-
 ## **Leadership & Community Involvement**
 
 - **Microsoft Learn Student Ambassador**
   - Representing Microsoft on campus by advocating for technology, promoting learning resources, and engaging with the student tech community.
 
----
-
-## **Experience**
-
-### **Freelance Developer**  
-- Built and deployed responsive web and mobile applications using React, Next.js, Laravel, and Flutter  
-- Integrated RESTful APIs, third-party services, and both SQL and NoSQL databases  
-- Performed security audits and penetration tests for client applications  
-- Collaborated with clients to plan, design, and maintain scalable applications  
-
-- Conducted network traffic analysis and vulnerability assessments  
-- Participated in Capture the Flag (CTF) competitions and ethical hacking labs (Hack The Box, TryHackMe, PicoCTF)  
-- Promoted secure coding practices and implemented end-to-end encryption mechanisms  
-
----
