@@ -8,7 +8,7 @@
 
 ## **Skills**
 
-- **Programming Languages:** JavaScript, Python, Dart, SQL, Java, C++, C#  
+- **Programming Languages:** JavaScript, Python, Dart, SQL, Java, C++, C#, PHP
 - **Frameworks & Libraries:** React.js, Express.js, Tailwind CSS, Flutter, KivyMD  
 - **Tools & Platforms:** Git, Docker, Firebase, Postman  
 - **Specializations:** Cybersecurity, Penetration Testing, Blockchain Development, Mobile and Web Development
