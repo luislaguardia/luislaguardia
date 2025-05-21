@@ -6,11 +6,6 @@
 
 ---
 
-## **Summary**  
-Innovative and detail-oriented Full-Stack Developer & Cybersecurity Enthusiast with expertise in web and mobile development. Passionate about leveraging technology to enhance user experiences, strengthen security, and support digital transformation. Seeking opportunities to apply my skills in software development, cybersecurity, and blockchain to create impactful solutions.
-
----
-
 ## **Skills**
 
 - **Programming Languages:** JavaScript, Python, Dart, SQL, Java, C++, C#  
